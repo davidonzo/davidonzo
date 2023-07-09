@@ -14,7 +14,7 @@ For more information, please use the links below:
 <a href="https://twitter.com/davidonzo" rel="me">
   <img align="left" alt="Davide Baglieri Mastodon's" width="20px" src="https://ico.vercel.app/mastodon/333333"/>
 </a>
-<br />
+<br /><br />
 
 
 My personal purpose about this project is basically for Research & Developing in a continue education and training process I started the 23th of September 1979.
