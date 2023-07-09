@@ -11,7 +11,7 @@ For more information, please use the links below:
 <a href="https://twitter.com/davidonzo" rel="me">
    <img align="left" alt="Davide Baglieri Twitter's" width="20px" src="https://ico.vercel.app/twitter/333333"/>
 </a>
-<a href="https://twitter.com/davidonzo" rel="me">
+<a href="https://infosec.exchange/@davidonzo" rel="me">
   <img align="left" alt="Davide Baglieri Mastodon's" width="20px" src="https://ico.vercel.app/mastodon/333333"/>
 </a>
 <br /><br />
