@@ -15,4 +15,5 @@ For more information, please use the links below:
   <img align="left" alt="Davide Baglieri Mastodon's" width="20px" src="https://ico.vercel.app/mastodon/333333"/>
 </a>
 
+
 My personal purpose about this project is basically for Research & Developing in a continue education and training process I started the 23th of September 1979.
