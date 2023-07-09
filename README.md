@@ -3,7 +3,8 @@
 # Who Am I
 My name is Davide Baglieri and I'm a security researcher and consultant.
 
-For mo information, please use the links below
+For more information, please use the links below:
+
 <a href="https://www.linkedin.com/in/davidebaglieri/" rel="me">
    <img align="left" alt="Davide Baglieri Linkedin's" width="20px" src="https://ico.vercel.app/linkedin/333333"/>
 </a>
